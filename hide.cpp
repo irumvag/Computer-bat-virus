@@ -64,7 +64,7 @@ int main() {
     string sourceDir = string(userProfile) + "\\Documents";
     string destDir;
 
-    cout << "Source directory (Documents folder): " << sourceDir << endl;
+    //cout << "Source directory (Documents folder): " << sourceDir << endl;
     cout << "Enter the destination directory: ";
     getline(cin, destDir);
 
